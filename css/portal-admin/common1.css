@@ -27,7 +27,7 @@
 
 .demoIcon {
     border-radius: 0px;
-    background-image: url("#{resource['images/demo-icon.png']}") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/svgsymbology/platform/images/demo-iconmini.png") !important;
     width: 16px;
     height: 16px;
 }
